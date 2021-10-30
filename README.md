@@ -24,6 +24,17 @@ python3 -m unittest discover -v
 
 > Python
 
-### Example:
+
+## Class Calculation:
+
+<img src="images/class_calculation_1.png" alt="Basketball" title="Basketball" align="center"/>
+
+## TestingCalculation:
+
+
+<img src="images/test_class_calculation_1.png" alt="Basketball" title="Basketball" align="center"/>
+
+
+## Run Tests in Python
 
 <img src="images/test_pass.png" alt="Basketball" title="Basketball" align="center"/>
