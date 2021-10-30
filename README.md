@@ -23,3 +23,7 @@ python3 -m unittest discover -v
 ## Techs
 
 > Python
+
+### Example:
+
+<img src="images/test_pass.png" alt="Basketball" title="Basketball" align="center"/>
