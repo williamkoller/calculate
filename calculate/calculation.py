@@ -1,6 +1,6 @@
 class Calculation():
     @staticmethod
-    def sum(a: float, b: float) -> float:
+    def addition(a: float, b: float) -> float:
         return a + b
 
     @staticmethod
@@ -14,3 +14,7 @@ class Calculation():
     @staticmethod
     def multiplication(a: float, b: float) -> float:
         return a * b
+
+    @staticmethod
+    def power(a: float, b: float) -> float:
+        return a ** b
